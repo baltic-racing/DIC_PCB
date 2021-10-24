@@ -1,0 +1,9 @@
+Review DIC PCB 24.10.2021
+
+Allgemein:
+- Keine baltic racing vorlage verwendet
+- Maximaler Outputstrom Mikrocontroller? -> bitte recherchieren und darüber bewusst werden was das mit dem Stromlaufplan zu tun hat.
+- Warum 2 Controller? -> Wir vermuten Output pins?
+-- Falls ja: schau dir mal bitte multiplexing bzw. dafür geeignete chips an. Wie könnte man diese Verwenden um einen Controller weg zu lassen?
+- Bauteilwerte (Widerstände und Kapazitäten)? Inklusive Berechnungen
+- Einheitliche Symbole für Widerstände
