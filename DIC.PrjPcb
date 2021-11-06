@@ -108,6 +108,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMOPSOCR
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DIC\Design Rule Check - Ring.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
