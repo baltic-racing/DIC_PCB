@@ -1,0 +1,43 @@
+Review DIC PCB 24.10.2021
+
+Allgemein:
+- Keine baltic racing vorlage verwendet
+- Maximaler Outputstrom Mikrocontroller? -> bitte recherchieren und darüber bewusst werden was das mit dem Stromlaufplan zu tun hat.
+- Warum 2 Controller? -> Wir vermuten Output pins?
+-- Falls ja: schau dir mal bitte multiplexing bzw. dafür geeignete chips an. Wie könnte man diese Verwenden um einen Controller weg zu lassen?
+- Bauteilwerte (Widerstände und Kapazitäten)? Inklusive Berechnungen
+- Einheitliche Symbole für Widerstände
+
+Review DIC PCB 07.11.2021
+
+Folgende Punkte aus dem alten Review wurden nicht beachtet: (Ist ein no-go und ich empfehle, dass das nicht nochmal vorkommt. 
+Bei Unklarheiten bitte immer nachfragen und nicht einfach unkommentiert lassen)
+- Keine Baltic racing Vorlage verwendet (shematic) Ist z.b. ein 1mm grid stat ein mil grid -> resultat ist das bauteile und Linien grauenvoll aligned sind wie du warscheinlich auch selbst siehst.
+- Einheitliche Symbole für Widerstände (R22 und R24 sind immernoch mit USA standart Symbol)
+
+Allgemein:
+- Bitte aussagekräftige Commit messages. z.b. den changelog den du mir per slack geschickt hast als commit message. (natürlich auf englisch)
+- Ring PCB enthält nicht alle Bauteile von Ring.sch -> wäre schön ween das konsistent gestaltet wäre
+- Zum Thema Vorwiderstände: Im review davor steht "Inklusive Berechnung". Diese bitte als Kommentar im schaltplan einfügen. 
+    Alles was für die Berechnung an Datenblättern benötigt wird (z.B. das Datenblatt der LEDs und der Controller) bitte in einem extra Ordner im Repo ablegen. 
+    Damit können dann die Berehcnungen untermauert werden.
+    Wenn du richtig gut drauf bist, verlinkst du die Datenblätter sogar noch an der richtigen Stelle in der Berechnung.
+
+Review DIC PCB 14.12.2021
+
+	e12serie
+	labels orientierung
+	RESET pin an micro ran (also an beliebiges GPIO)
+	MCP leistrungsberechnung
+		- Maximum output current sunk by any output pin 25 mA
+		- Maximum output current sourced by any output pin 25 mA
+	multiboard project
+	pfostenstecker als SMD wg. kolission mit carbon --> um 0.8 mm größer
+	Befestigungslöcher auf masse! (NET = GND)
+	designrules bzg clearance to board edge überprüfen, vllt ist das mit hersteller nicht übereinstimmend --> Toleranz +-2mm
+	silkscreen entfernen bei dioden wg ästhetik
+	Silkscreen evtl kleiner machen, damit silkscreen einheitlich (z.B. bei widerständen)
+	RESET auf 5V
+bzg labels, wie im bild hier am besten
+Bild
+also, label orientierung auf die seite, wo es "endet" und dann halt kabel bis dahin
