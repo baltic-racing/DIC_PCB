@@ -1,0 +1,69 @@
+Change component parameters: Designator = "Main_Header" ("Main_Header"); Footprint = "61233420621"; UniqueID = "\MMPGSFES" ("\MMPGSFES")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61233420621.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male PCB side"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1000MOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "50.98mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "61233420621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel with Cap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "August 2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\GYQDBUUE" ("\GYQDBUUE")
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\KORQSMWD" ("\KORQSMWD")
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\SLRTXWEO" ("\SLRTXWEO")
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\LVGKEYOM" ("\LVGKEYOM")
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\PBLKZBVM" ("\PBLKZBVM")
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\OZJLHVJV" ("\OZJLHVJV")
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\SVCYKYSM" ("\SVCYKYSM")
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\NRWKMDLJ" ("\NRWKMDLJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\GIDGUFFI" ("\GIDGUFFI")
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\DSUKFXVO" ("\DSUKFXVO")
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\BNGVRPBH" ("\BNGVRPBH")
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\HMNOSPGJ" ("\HMNOSPGJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Added Component: Designator=R1(STACKPOLE CSR0603)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(STACKPOLE CSR0603)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(STACKPOLE CSR0603)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=Tire_LEDs-13
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=Tire_LEDs-12
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=Tire_LEDs-11
+Added Net: Name=NetR3_1
+Change Class Name : Old Net Name=Ring New Net Name=LED ring
+Added Member To Class: ClassName=LED ring Member=Component R1 SMD Resistor
+Added Member To Class: ClassName=LED ring Member=Component R2 SMD Resistor
+Added Member To Class: ClassName=LED ring Member=Component R3 SMD Resistor
+Added Room: Name=LED ring

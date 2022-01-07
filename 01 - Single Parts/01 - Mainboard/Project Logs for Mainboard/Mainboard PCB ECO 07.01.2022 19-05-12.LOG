@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR28_1 Pin=SD_TS-7
+Removed Pin From Net: NetName=BOTS_in Pin=SD_TS-8
+Removed Pin From Net: NetName=Inertia_in Pin=SD_TS-9
+Removed Pin From Net: NetName=SDB_Dashboard Pin=SD_TS-10
+Removed Pin From Net: NetName=NetR24_1 Pin=U1-49
+Removed Pin From Net: NetName=NetR18_2 Pin=U1-51
+Added Pin To Net: NetName=BOTS_in Pin=SD_TS-7
+Added Pin To Net: NetName=Inertia_in Pin=SD_TS-8
+Added Pin To Net: NetName=SDB_Dashboard Pin=SD_TS-9
+Added Pin To Net: NetName=NetR28_1 Pin=SD_TS-10
+Added Pin To Net: NetName=NetR18_2 Pin=U1-49
+Added Pin To Net: NetName=NetR24_1 Pin=U1-51
+Added Room: Name=Mainboard

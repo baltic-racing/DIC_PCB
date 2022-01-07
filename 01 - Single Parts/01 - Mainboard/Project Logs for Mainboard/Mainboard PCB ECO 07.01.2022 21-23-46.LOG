@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MOSI Pin=LED_Header-23
+Removed Pin From Net: NetName=MISO Pin=LED_Header-25
+Removed Pin From Net: NetName=SCK Pin=LED_Header-27
+Removed Pin From Net: NetName=SS Pin=LED_Header-29
+Removed Pin From Net: NetName=GND Pin=LED_Header-31
+Removed Pin From Net: NetName=GND Pin=LED_Header-33
+Added Pin To Net: NetName=GND Pin=LED_Header-17
+Added Pin To Net: NetName=GND Pin=LED_Header-19
+Added Pin To Net: NetName=GND Pin=LED_Header-21
+Added Pin To Net: NetName=+5V Pin=LED_Header-23
+Added Pin To Net: NetName=MOSI Pin=LED_Header-25
+Added Pin To Net: NetName=MISO Pin=LED_Header-27
+Added Pin To Net: NetName=SCK Pin=LED_Header-29
+Added Pin To Net: NetName=SS Pin=LED_Header-31
+Added Pin To Net: NetName=+5V Pin=LED_Header-33
+Added Room: Name=Mainboard
