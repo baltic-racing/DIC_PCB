@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=CAN_N Pin=CAN_3-1
+Removed Pin From Net: NetName=CAN_P Pin=CAN_3-2
+Removed Pin From Net: NetName=GND Pin=CAN_3-3
+Removed Pin From Net: NetName=+24V Pin=CAN_3-4
+Removed Pin From Net: NetName=CAN_N Pin=DIC-1
+Removed Pin From Net: NetName=CAN_P Pin=DIC-2
+Removed Pin From Net: NetName=GND Pin=DIC-3
+Removed Pin From Net: NetName=+24V Pin=DIC-4
+Removed Pin From Net: NetName=CAN_N Pin=SWC-1
+Removed Pin From Net: NetName=CAN_P Pin=SWC-2
+Removed Pin From Net: NetName=GND Pin=SWC-3
+Removed Pin From Net: NetName=+24V Pin=SWC-4
+Added Pin To Net: NetName=+24V Pin=CAN_3-1
+Added Pin To Net: NetName=GND Pin=CAN_3-2
+Added Pin To Net: NetName=CAN_P Pin=CAN_3-3
+Added Pin To Net: NetName=CAN_N Pin=CAN_3-4
+Added Pin To Net: NetName=+24V Pin=DIC-1
+Added Pin To Net: NetName=GND Pin=DIC-2
+Added Pin To Net: NetName=CAN_P Pin=DIC-3
+Added Pin To Net: NetName=CAN_N Pin=DIC-4
+Added Pin To Net: NetName=+24V Pin=SWC-1
+Added Pin To Net: NetName=GND Pin=SWC-2
+Added Pin To Net: NetName=CAN_P Pin=SWC-3
+Added Pin To Net: NetName=CAN_N Pin=SWC-4
+Added Member To Class: ClassName=Mainboard Member=Component R28 SMD Resistor
