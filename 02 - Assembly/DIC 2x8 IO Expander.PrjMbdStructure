@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=DIC 2x8 GPIO Expand.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\01 - Single Parts\03 - Mainboard V2\Mainboard V2.PrjPcb
+Record=SubProject|SourceDocument=DIC 2x8 GPIO Expand.MbsDoc|ProjectPath=..\01 - Single Parts\03 - Mainboard V2\Mainboard V2.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DIC 2x8 GPIO Expand.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\01 - Single Parts\04 - LED ring V2\LED ring V2.PrjPcb
+Record=SubProject|SourceDocument=DIC 2x8 GPIO Expand.MbsDoc|ProjectPath=..\01 - Single Parts\04 - LED ring V2\LED ring V2.PrjPcb

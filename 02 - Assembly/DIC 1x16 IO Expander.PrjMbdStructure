@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=DIC.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\01 - Single Parts\01 - Mainboard\Mainboard.PrjPcb
+Record=SubProject|SourceDocument=DIC.MbsDoc|ProjectPath=..\01 - Single Parts\01 - Mainboard\Mainboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DIC.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\01 - Single Parts\02 - LED ring\LED ring.PrjPcb
+Record=SubProject|SourceDocument=DIC.MbsDoc|ProjectPath=..\01 - Single Parts\02 - LED ring\LED ring.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DIC V1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\01 - Single Parts\01 - Mainboard\Mainboard V1.PrjPcb
+Record=SubProject|SourceDocument=DIC V1.MbsDoc|ProjectPath=..\01 - Single Parts\01 - Mainboard\Mainboard V1.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DIC V1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\01 - Single Parts\02 - LED ring\LED ring V1.PrjPcb
+Record=SubProject|SourceDocument=DIC V1.MbsDoc|ProjectPath=..\01 - Single Parts\02 - LED ring\LED ring V1.PrjPcb
