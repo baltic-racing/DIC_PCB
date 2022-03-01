@@ -61,7 +61,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XPWPRTDW
 
 [Document2]
 DocumentPath=LED ring V2.SchDoc
@@ -96,6 +96,75 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document4]
+DocumentPath=LED_ring_V2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GM42
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\gerbers\JLC_GERBERS\LED ring V2.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
