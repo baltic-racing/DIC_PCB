@@ -1,0 +1,512 @@
+*************************************************************
+FileName = Mainboard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 5
+      File : Mainboard.5
+
+    Adding Layer      : Dielectric 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 4
+      File : Mainboard.4
+
+    Adding Layer      : Dielectric 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : Mainboard.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : Mainboard.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : Mainboard.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Mainboard.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : Mainboard.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : Mainboard.GM10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Boardoutline
+      File : Mainboard.GM42
+
+    Adding Layer      : Boardoutline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Mainboard.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D65
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 11
+      File : Mainboard.GM11
+
+    Adding Layer      : Mechanical 11
+
+
+Used DCodes :
+    D10
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Mainboard.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Mainboard.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Mainboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Mainboard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Mainboard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Mainboard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Mainboard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer1
+      File : Mainboard.G1
+
+    Adding Layer      : Inner Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D49
+    D55
+    D57
+    D58
+    D59
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Inner Layer2
+      File : Mainboard.G2
+
+    Adding Layer      : Inner Layer2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D49
+    D58
+    D59
+    D60
+    D61
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Mainboard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D49
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Mainboard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D49
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Mainboard.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Mainboard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D19
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Mainboard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Mainboard.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D49
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Mainboard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Mainboard.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Mainboard.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Mainboard.GM
+
+
+Used DCodes :
+    D70
+*************************************************************
+

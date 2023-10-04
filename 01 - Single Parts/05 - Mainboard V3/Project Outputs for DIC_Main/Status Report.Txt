@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DIC_Main.PrjPcb]
+   Generated File[Mainboard.GTO]
+   Generated File[Mainboard.GTP]
+   Generated File[Mainboard.GTS]
+   Generated File[Mainboard.GTL]
+   Generated File[Mainboard.G1]
+   Generated File[Mainboard.G2]
+   Generated File[Mainboard.GBL]
+   Generated File[Mainboard.GBS]
+   Generated File[Mainboard.GBO]
+   Generated File[Mainboard.GM1]
+   Generated File[Mainboard.GM4]
+   Generated File[Mainboard.GM11]
+   Generated File[Mainboard.GM13]
+   Generated File[Mainboard.GM15]
+   Generated File[Mainboard.GM42]
+   Generated File[Mainboard.GPT]
+   Generated File[Mainboard.GPB]
+   Generated File[Mainboard.GD1]
+   Generated File[Mainboard.GG1]
+   Generated File[Mainboard.GM]
+   Generated File[Mainboard.EXTREP]
+   Generated File[Mainboard.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 23:33:08 On 31.08.2023
